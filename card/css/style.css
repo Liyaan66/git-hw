@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.card{
+    background-color: rgb(247, 247, 247);
+    margin: 20px;
+    padding: 10px;
+    
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 10px;
+    color: aliceblue;
+    cursor: pointer;
+    
+}
+.btn-teal{
+    background-color: rgb(8, 129, 169);
+}
+.btn-orange{
+    background-color: rgb(209, 172, 23);
+}
+.btn-purple{
+    background-color: rgb(206, 6, 133);
+}
+.btn-teal:hover{
+    background-color:rgb(206, 6, 133);
+}
+.btn-orange:hover{
+    background-color:rgb(8, 129, 169);
+}
+.btn-purple:hover{
+    background-color:rgb(209, 172, 23);
+}
