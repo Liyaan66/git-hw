@@ -1,0 +1,24 @@
+body{
+    color: aliceblue;
+}
+#header{
+    background-color: rgb(255, 0, 140);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+#main-content{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#footer{
+    background-color: rgb(216, 207, 19);
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
